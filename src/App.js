@@ -8,7 +8,6 @@ import { FeedbackProvider } from "./context/FeedbackContext";
 import AboutIconLink from "./components/AboutIconLink";
 
 function App() {
-  
   return (
     <FeedbackProvider>
       <Router>
